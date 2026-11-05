@@ -4,7 +4,7 @@
 
 ### Models used
 * Qwen3.8-Uncensored-27B (Orca) for initial rooting assistance
-* Opus 5.5 for investigation
+* Opus 5.5 for investigation and this report (with parts redacted manually)
 
 ## Context
 
