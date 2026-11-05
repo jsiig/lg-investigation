@@ -1,0 +1,13 @@
+<acr_config acr_config_format_ver="1.5" version="3" model_year="2022" webos_initial_version="webOS22" ACR_On="true" server_address="" server_protocol="" capture_method="SOURCE" max_force_alive="30" no_match_threshold="15" capture_format="YUV420" ACRServiceLaunched="true" send_data="true" ACRPopup="0" ACRSolution="ALPHONSO" CAPATH="/etc/ssl/certs/ca-certificates.crt" CountryCode="GB" Activate_UEI="false">
+	<sessionPersistence>-1</sessionPersistence>
+	<audio capture="true" sample_rate="48000" channels="2" duration="100" sleep="0" format="PCM16" pcm_option="dsnoop:0,12" />
+	<video capture="false" />
+	<video-capture-max-input-resolution broadcast="2160" external="2160" />
+	<solution name="ALPHONSO" lib="libalphonsosolution.so.1.0.0" sdk="libas.so" sdk-lite="NA" download-url="NA" client_token="LG-webOS24-X-qCPplV9qDdv2FoZf">
+		<dai ota="false" stb="false" />
+		<overlay support="false" />
+		<support should-send-first-optout="true" can-create-toast="false" />
+		<lgchannels capture="false" />
+		<application-info protocol="lib" uri="NA" method="NA"> </application-info>
+	</solution>
+</acr_config>

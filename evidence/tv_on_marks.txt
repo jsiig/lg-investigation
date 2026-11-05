@@ -1,0 +1,10 @@
+on 1793898257
+{ "state": "Active", "returnValue": true }
+hdmi1 1793898560
+signals [('HDMI_1', True), ('HDMI_2', False), ('HDMI_3', False), ('HDMI_4', False)]
+lgch 1793898862
+{"returnValue":true}
+    "appId": "com.webos.app.lgchannels",
+off 1793899211
+{ "state": "Active Standby", "returnValue": true }
+ 17:20:23 up 17 min,  0 users,  load average: 13.12, 12.47, 8.85
